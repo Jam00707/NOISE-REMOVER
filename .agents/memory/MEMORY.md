@@ -1,0 +1,1 @@
+- [Artifact route ownership](artifact-route-ownership.md) — reserve shared service paths like `/api`; use a distinct frontend route for API documentation pages.
