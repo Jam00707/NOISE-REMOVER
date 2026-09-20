@@ -48,7 +48,7 @@ export function ProductShell({ children }: { children: React.ReactNode }) {
             <div><h4>Get in touch</h4><div className="footer-links"><Link className="footer-link" href="/contact">Contact Us</Link><Link className="footer-link" href="/signup">Create a free account</Link><Link className="footer-link" href="/login">Log in</Link></div></div>
             <div><h4>Resources</h4><div className="footer-links"><Link className="footer-link" href="/faq">Help center</Link><Link className="footer-link" href="/#before-after">Audio samples</Link><Link className="footer-link" href="/#how-it-works">How it works</Link></div></div>
           </div>
-          <div className="footer-bottom"><span>© 2025 Noise Remover</span><span>Made for better listening.</span></div>
+          <div className="footer-bottom"><span>Made in Pakistan</span><span>Made for better listening.</span></div>
         </div>
       </footer>
     </div>
